@@ -1,6 +1,7 @@
-# Welcome to My Space:books:
+# `Welcome to My Space 📖`
+  - Learning Reverse Engineering, Pwnable in 🇰🇷
+  - If you want to know more about me, Refer my [portfolio](https://jun-project-lab.github.io/)
 
 <!---
-Jun-Project-LAB/Jun-Project-LAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
