@@ -13,7 +13,7 @@
 
 ### 🛠️ **Skills**
 
-- Programing Language :
+- Programing Language
 
 > **Basic**
 ```
