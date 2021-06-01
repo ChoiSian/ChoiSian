@@ -6,6 +6,7 @@
 - **Contact Info**
   - Email : choi.junyoung.20.04@gmail.com
   - Name : 최준영 / Choi Junyoung
+  - Blog : https://jun-project-lab.github.io/
 
 고등학교에서 **네트워크**를 전공하였으며 현재는 **정보보안**을 공부하고 있습니다. 정보보안 중 관심있는 분야는 Reversing Engineering과 System Hacking 입니다. 향후 ZeroDay 취약점 등을 찾아낼 수 있는 연구원을 목표로 공부하고 있습니다. 
 
@@ -75,3 +76,15 @@ wargame 문제를 풀이할 때 주어진 hash 값과 일치하는 값을 Rainbo
 
 # 📝 Certificate
 
+- 2019.05 정보기기운용 기능사 취득
+- 2020.07 정보처리산업기사 필기 취득
+- 2021.04 정보보안산업기사 필기 취득
+
+* * *
+
+# 🏆 Prize
+
+- 2019.08 Cisco NetRiders Competition Korea 2019 대상
+- 2020.06 인천광역시 기능경기대회 IT네트워크시스템 1위
+- 2020.09 전국기능경기대회 IT네트워크시스템 장려
+- 2021.04 인천광역시 기능경기대회 사이버보안 1위
