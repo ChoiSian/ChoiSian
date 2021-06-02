@@ -67,14 +67,14 @@ wargame 문제를 풀이할 때 주어진 hash 값과 일치하는 값을 Rainbo
 
 * * *
 
-# 🎓 Education
+# 🎓 **Education**
 
 - 2018.03 ~ 2021.01 인천전자마이스터고 정보통신기기과 졸
 - 2021.03 ~ 2021.06 K-Shield 주니어 정보보호 관리진단 교육 과정 수료
 
 * * *
 
-# 📝 Certificate
+# 📝 **Certificate**
 
 - 2019.05 정보기기운용 기능사 취득
 - 2021.04 정보보안 산업기사 필기 취득
@@ -82,7 +82,7 @@ wargame 문제를 풀이할 때 주어진 hash 값과 일치하는 값을 Rainbo
 
 * * *
 
-# 🏆 Prize
+# 🏆 **Prize**
 
 - 2019.08 Cisco NetRiders Competition Korea 2019 대상
 - 2020.06 인천광역시 기능경기대회 IT네트워크시스템 1위
