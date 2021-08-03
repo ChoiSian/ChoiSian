@@ -1,4 +1,4 @@
-`CALL 0x706f7274666f6c696f`
+Portfolio
 -----------------------------
 
 # 👨‍💻 **About Me**
@@ -8,7 +8,7 @@
   - Name : 최준영 / Choi Junyoung
   - Blog : https://jun-project-lab.github.io/
 
-고등학교에서 **네트워크**를 전공하였으며 현재는 **정보보안**을 공부하고 있습니다. 정보보안 중 관심있는 분야는 Reversing Engineering과 System Hacking 입니다. 향후 ZeroDay 취약점 등을 찾아낼 수 있는 연구원을 목표로 공부하고 있습니다. 
+고등학교에서 **네트워크**를 전공하였으며 현재 **시스템 해킹**에 대해 공부하고 있습니다. 꾸준히 기술을 갈고 닦아 IoT, Connected Car와 같이 일상 속에서의 보안 취약점을 찾아내어 이를 예방하는데 도움을 줄 수 있는 연구원이 되고 싶습니다.
 
 * * *
 
@@ -16,36 +16,20 @@
 
 - Programing Language
 
-> **Basic**
-```
-- 해당 언어의 기초에 대해 알고 있으며 간단한 예제에 대해서 동작 방식을 해석할 수 있음.
-```
+> C 언어를 시작으로 다양한 프로그래밍 언어를 접해볼 수 있었습니다. Pwnable 문제를 풀며 다양한 case를 접하며 C 언어에 대한 이해도 향상되는 기회를 가졌습니다. 또한 exploit code를 작성하는데 python이 자주 사용되는 만큼 이에 대한 실력도 기를 수 있었습니다.
 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-> **Intermediate**
-```
-- 해당 언어를 사용하여 간단한 목적의 프로그램을 제작 및 기본적인 해석이 가능함.
-- 다양한 라이브러리, 심화적인 기술에 대해서는 부족한 점이 있음.
-```
-
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 - Application
 
-> **Intermediate**
-```
-- Service를 구축하기 위한 기본적인 설정법을 알고 있으며 요구사항에 맞춰 옵션 설정이 가능함.
-```
+> 네트워크를 공부할 당시 Linux 환경에서 다양한 Web/Application 서비스 구축에 대해 공부한 경험이 있습니다. 이 과정에서 웹 서비스들의 동작에 대해 학습할 수 있었고, Database, SQL Query 등도 공부할 수 있었습니다.
 
 <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 
 - Network
 
-> **Basic**
-```
-- Router, Switch, Firewall 등을 사용하여 네트워크 환경 구성이 가능함.
-```
+> Network의 이론부터 하나의 망을 구축하기까지 시뮬레이션 프로그램 뿐만 아니라 실제 Cisco 사의 Router, Switch 등의 장비를 이용한 실습도 진행하였습니다. 방화벽 장비를 이용한 실습을 진행할 때는 여러 프로토콜을 ACL을 사용하여 제어하며 FTP의 Acctive와 Passive mode의 차이점 등 더 깊이있는 내용을 학습할 수 있었습니다.
+
 <img alt="Cisco" src="https://img.shields.io/badge/Cisco-003545?style=for-the-badge&logo=cisco&logoColor=white&color=blue"/>
 
 * * *
