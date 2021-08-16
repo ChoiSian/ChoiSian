@@ -14,7 +14,7 @@ Portfolio
 
 # 🛠️ **Skills**
 
-- Programing Language
+- Programming Language
 
 > C 언어를 시작으로 다양한 프로그래밍 언어를 접해볼 수 있었습니다. Pwnable 문제를 풀며 다양한 case를 접하며 C 언어에 대한 이해도 향상되는 기회를 가졌습니다. 또한 exploit code를 작성하는데 python이 자주 사용되는 만큼 이에 대한 실력도 기를 수 있었습니다.
 
