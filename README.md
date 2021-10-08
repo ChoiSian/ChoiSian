@@ -14,21 +14,17 @@ Portfolio
 
 - Programming Language
 
-> C 언어를 시작으로 다양한 프로그래밍 언어를 접해볼 수 있었습니다. Pwnable 문제를 풀며 다양한 case를 접하며 C 언어에 대한 이해도 향상되는 기회를 가졌습니다. 또한 exploit code를 작성하는데 python이 자주 사용되는 만큼 이에 대한 실력도 기를 수 있었습니다.
+> **C 언어**를 통해 프로그래밍에 대한 전반적인 개념과 기초를 학습하였습니다. 이후 web, pwnable, reversing 등 여러 wargame 문제를 보다 빠르게 풀기 위해 **python**을 이용하여 exploit code를 작성하는 법을 공부하였습니다.
 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
-- Application
+- Pwnable
 
-> 네트워크를 공부할 당시 Linux 환경에서 다양한 Web/Application 서비스 구축에 대해 공부한 경험이 있습니다. 이 과정에서 웹 서비스들의 동작에 대해 학습할 수 있었고, Database, SQL Query 등도 공부할 수 있었습니다.
+> BOF, FSB, ROP와 같은 기법들의 이론을 학습한 뒤 해당 기법들을 적용하여 wargame 문제를 풀어보며 견문을 넓히고 있습니다.
 
-<img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+- Tools
 
-- Network
-
-> Network의 이론부터 하나의 망을 구축하기까지 시뮬레이션 프로그램 뿐만 아니라 실제 Cisco 사의 Router, Switch 등의 장비를 이용한 실습도 진행하였습니다. 방화벽 장비를 이용한 실습을 진행할 때는 여러 프로토콜을 ACL을 사용하여 제어하며 FTP의 Acctive와 Passive mode의 차이점 등 더 깊이있는 내용을 학습할 수 있었습니다.
-
-<img alt="Cisco" src="https://img.shields.io/badge/Cisco-003545?style=for-the-badge&logo=cisco&logoColor=white&color=blue"/>
+> IDA, Ghidra, gdb 등을 활용하여 wargame 및 CTF 문제를 해결하며 각 도구들에 대한 사용법 및 숙련도를 높이고 있습니다.
 
 * * *
 
