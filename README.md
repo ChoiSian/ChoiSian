@@ -83,7 +83,7 @@ Shellcode를 목적에 맞게 변형하며 Linux system call table과 관련된 
 
 # 🚩 **CTF**
 
-- 2021 pbjarCTF 167th
+- 2021 pbjarCTF 167th (10 Solve)
 
 # 📖 **My Learning History**
 
