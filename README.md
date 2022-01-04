@@ -2,7 +2,7 @@
 
 - **Contact Info**
   - Email : choi.junyoung.20.04@gmail.com
-  - Name : 최준영 / Choi Junyoung
+  - Name : 최준영 / Junyoung Choi
   - Blog : https://ChoiSian.github.io/
 
 * * *
