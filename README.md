@@ -3,7 +3,8 @@
 - **Contact Info**
   - Email : choi.junyoung.20.04@gmail.com
   - Name : 최준영 / Junyoung Choi
-  - Blog : https://ChoiSian.github.io/
+  - Blog : https://velog.io/@insp3ct0r_/
+  - Blog[Moved] : https://ChoiSian.github.io/
 
 * * *
 
