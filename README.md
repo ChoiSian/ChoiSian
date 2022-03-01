@@ -2,28 +2,13 @@
 
 - **Contact Info**
   - Email : choi.junyoung.20.04@gmail.com
-  - Name : 최준영 / Junyoung Choi
+  - Name : 최준영 / Jun Young Choi
   - Blog : https://velog.io/@insp3ct0r_/
   - Blog[Moved] : https://ChoiSian.github.io/
 
 * * *
 
-# 🖥️ **Experience**
-
-- 2021 pbjarCTF
-
-2021 pbjarCTF에 참여하여 총 10개의 문제를 solve 하였습니다. 아무래도 여태까지 풀었던 wargame 문제와는 조금 더 난이도가 있는 편이었지만 몇몇 문제의 경우 source code file이 같이 제공되었기에 풀이 시간을 단축할 수 있었다고 생각합니다.
-대회 중간에는 Top 100에도 들었으나 최종 순위는 전체 167등으로 마무리 하였습니다. 일반 wargame 문제를 풀 때는 자주 접하지 못했던 Architecture에서의 alignment 문제나 새로운 기법들에 대해서도 직접 적용해보며 학습할 수 있는 기회가 되었습니다.
-
-> [Write-Up](https://choisian.github.io/system/crypto/misc/ctf%20write-up/pbjarctf-write-up/)
-
-- 2021 Killer Queen CTF
-
-2021 Killer Queen CTF에 참여하여 총 3개의 문제를 solve 하였습니다. 해결한 문제 모두 pwnable category 였으며 어렵지 않게 해결할 수 있었습니다. 참여한 시간이 적기 때문에 새로운 유형의 문제를 해결하지 못한 점에서 아쉬움이 있지만 이전에 배웠던 내용을 복습할 수 있었습니다.
-
-> [Write-Up](https://choisian.github.io/ctf%20write-up/system/killer-queen-ctf-write-up/)
-
-* * *
+<!--# 🖥️ **Experience**-->
 
 # 🎓 **Education**
 
@@ -54,6 +39,7 @@
 
 - 2021 pbjarCTF 167th (10 Solve)
 - 2021 Killer Queen CTF (3 solve)
+- 2022 Codegate CTF Pre 39th (1 solve)
 
 # 📖 **My Learning History**
 
