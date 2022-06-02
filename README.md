@@ -8,7 +8,9 @@
 
 * * *
 
-<!--# 🖥️ **Experience**-->
+# 🖥️ **Work**
+
+- 2022.02 ~ Now 인더포레스트 재직 중
 
 # 🎓 **Education**
 
@@ -19,7 +21,6 @@
 
 # 📝 **Certificate**
 
-- 2019.05 정보기기운용 기능사 취득
 - 2021.06 정보처리 산업기사 취득
 - 2021.06 정보보안 산업기사 취득
 
@@ -40,6 +41,8 @@
 - 2021 pbjarCTF 167th (10 Solve)
 - 2021 Killer Queen CTF (3 solve)
 - 2022 Codegate CTF Pre 39th (1 solve)
+
+> All list can find [here](https://github.com/ChoiSian/CTF)
 
 # 📖 **My Learning History**
 
